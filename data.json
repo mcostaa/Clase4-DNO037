@@ -1,61 +1,49 @@
 [
       {
-         "num":"001",
          "name":"Bulbasaur",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Bulbasaur.png"
       },
       {
-         "num":"004",
          "name":"Charmander",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Charmander.png"
       },
       {
-         "num":"007",
          "name":"Squirtle",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Squirtle.png"
       },
       {
-         "num":"152",
          "name":"Chikorita",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Chikorita.png"
       },
       {
-         "num":"155",
          "name":"Cyndaquil",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Cyndaquil.png"
       },
       {
-         "num":"158",
          "name":"Totodile",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Totodile.png"
       },
       {
-         "num":"252",
          "name":"Treecko",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Treecko.png"
       },
       {
-         "num":"255",
          "name":"Torchic",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Torchic.png"
       },
       {
-         "num":"258",
          "name":"Mudkip",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Mudkip.png"
       },
       {
-         "num":"387",
          "name":"Turtwig",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Turtwig.png"
       },
       {
-         "num":"390",
          "name":"Chimchar",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Chimchar.png"
       },
       {
-         "num":"393",
          "name":"Piplup",
          "img":"https://raw.githubusercontent.com/mcostaa/Poke-JSON/main/fotos%20pokemon%20png/Piplup.png"
       }
